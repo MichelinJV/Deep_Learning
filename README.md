@@ -1,6 +1,6 @@
 <img src="banner.jpg"/>
 
-# **Deep_Learning**
+# Deep_Learning
 
 Deep Learning (aprendizaagem profunda) é um tema dentro da inteligência Artificaial (IA).
 Deep Learning é  uma área que busca simular computacionalmente o cérebro enquanto máquina de aprendizado, é
