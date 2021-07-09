@@ -14,20 +14,24 @@ Os projetos aqui são:
 
 ## 1. Deep Nerual Network
 
-* Ataque_cardiaco_DNN: Usando redes neurais com multi-camadas, criamos um projeto de IA que, através dos dados das condições físicasde pacientes, consegue prever se existe riscos de uma doença cardíaca.
+* <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Ataque_Cardiaco_DNN.ipynb">Ataque_cardiaco_DNN: </a>
+Usando redes neurais com multi-camadas, criamos um projeto de IA que, através dos dados das condições físicasde pacientes, consegue prever se existe riscos de uma doença cardíaca.
 
 -------------------------------------------
 ## 2. Convolutional Neural Network
 
-* Detection_masks_CNN: Projeto criado para reconhecer se as pessoas em imagens estão usando máscara facial. 
+* <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Detec%C3%A7ao_Mascara_CNN.ipynb"> Detecção_Mascaras_CNN: </a>
+Projeto criado para reconhecer se as pessoas em imagens estão usando máscara facial. 
 Esse modelo pode ser aplicado em câmeras de monitoramento para verificar se as pessoas estão respeitando essa medida de prevenção ao covid-19.
 
 ----------------------------------------------------------
 ## 3. Recurrent Neural Network
 
-* Prevendo_Açoes_IBM_usandoRNN: Projeto que consiste de dois modelos de redes neurais recorrentes (GRU e LSTM) para prever os preços em alta das ações da IBM, 
+* <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Prevendo_A%C3%A7oes_IBM_usandoRNN_.ipynb">Prevendo_Açoes_IBM_usandoRNN: <a/>
+ Projeto que consiste de dois modelos de redes neurais recorrentes (GRU e LSTM) para prever os preços em alta das ações da IBM, 
  permitindo que um investidor faça negociações informadas estatisticamente.
 
 
-* Analise_Sentimentos_usandoLSTM: Neste projeto foi criado um analisador de resenhas que classifica as críticas dos filmes em positivas ou negativas,
+* <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Analise_Sentimentos_usando_LSTM_.ipynb">Analise_Sentimentos_usandoLSTM: </a>
+ Neste projeto foi criado um analisador de resenhas que classifica as críticas dos filmes em positivas ou negativas,
  usando redes neurrais recorrentes do tipo LSTM.
