@@ -15,7 +15,7 @@ Projetos exitentes nesse repositório:
 ## 1. Deep Nerual Network
 
 * <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Ataque_Cardiaco_DNN.ipynb">Ataque_cardiaco_DNN: </a>
-Usando redes neurais com multi-camadas, criamos um projeto de IA que, através dos dados das condições físicasde pacientes, consegue prever se existe riscos de uma doença cardíaca.
+Usando redes neurais com multi-camadas, criamos um projeto de IA que, através dos dados das condições físicas de pacientes, consegue prever se existe riscos de uma doença cardíaca.
 
 -------------------------------------------
 ## 2. Convolutional Neural Network
