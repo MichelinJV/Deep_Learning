@@ -10,7 +10,7 @@ Rede neurais são inspiradas pelo nosso entendimento da biologia do nosso céreb
 Mas, diferente de um cérebro biológico onde qualquer neurônio pode se conectar com qualquer outro neurônio dentro de uma certa distância física,
 essas redes neurais artificiais tem camadas discretas, conexões e direções de propagação de dados.
 
-Os projetos são:
+Projetos exitentes nesse repositório:
 
 ## 1. Deep Nerual Network
 
