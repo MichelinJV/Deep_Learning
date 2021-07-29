@@ -34,4 +34,4 @@ Esse modelo pode ser aplicado em câmeras de monitoramento para verificar se as 
 
 * <a href="https://github.com/MichelinJV/Deep_Learning/blob/master/Analise_Sentimentos_usando_LSTM_.ipynb">Analise_Sentimentos_usandoLSTM: </a>
  Neste projeto foi criado um analisador de resenhas que classifica as críticas dos filmes em positivas ou negativas,
- usando redes neurrais recorrentes do tipo LSTM.
+ usando redes neurais recorrentes do tipo LSTM.
